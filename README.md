@@ -1,4 +1,4 @@
-# Tree_visualisation_c-_opencv
+# Real_time_Tree_Graphs_visualisation
 
 
 this project real time visualise following tree/graphs/algorithms
