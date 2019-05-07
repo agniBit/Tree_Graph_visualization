@@ -1,7 +1,7 @@
 # Tree_visualisation_c-_opencv
 
 
-this project real time visualise following tree/grapg/algorithms
+this project real time visualise following tree/graphs/algorithms
 
 
 1.) binary tree
