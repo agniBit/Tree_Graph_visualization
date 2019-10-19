@@ -1,4 +1,4 @@
-# Real_time_Tree_Graphs_visualisation
+# Tree_Graphs_visualisation
 
 
 this project real time visualise following tree/graphs/algorithms
